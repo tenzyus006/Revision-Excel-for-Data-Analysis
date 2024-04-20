@@ -1,6 +1,6 @@
 # Revision-Excel-for-Data-Analysis
 
-Here are study notes for Excel for Data Analysis
+Here are study notes for Excel functions for Data Analysis
 
 //To Do
 - Revision and exploring on advanced level excel functions with shortcut keys for Data Analysis
