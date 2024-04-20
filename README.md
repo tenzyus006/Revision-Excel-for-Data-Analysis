@@ -1,5 +1,7 @@
 # Revision-Excel-for-Data-Analysis
 
+Hello!
+
 Here are study notes for Excel functions for Data Analysis
 
 //To Do
